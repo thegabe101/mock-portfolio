@@ -41,4 +41,11 @@ h2 {
 }
 .footer {
     background-color: green;
+    height: 50px;
+    width: auto;
+}
+.form {
+    border: 5px groove black;
+    border-radius: 10rem;
+    padding: 25px;
 }
