@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+}
+.navbar {
+    background-color: forestgreen;
+    color: white;
+    margin: 0;
+    border-bottom: 5px solid tan;
+    text-align: right;
+}
+.header {
+    background-color: forestgreen;
+}
+li {
+    display:inline;
+}
+h1 {
+    text-align:center;
+    padding:10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    margin: 0 auto;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    padding:20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:chocolate
+}
+.contact {
+    background-color: beige;
+    height: 200px;
+    width: auto;
+    margin: 25px;
+}
+.footer {
+    background-color: green;
+}
